@@ -30,12 +30,17 @@
 1.  Установленная среда разработки **Visual Studio 2022** (с установленной рабочей нагрузкой ".NET Multi-platform App UI development").
 2.  Склонируйте данный репозиторий:
     ```bash
-    git clone [https://github.com/ВАШ_ЛОГИН/BudgetApp.git](https://github.com/ВАШ_ЛОГИН/BudgetApp.git)
+    git clone [https://github.com/vladislavligorskij27-crypto/BudgetApp.git](https://github.com/vladislavligorskij27-crypto/BudgetApp.git)
     ```
 3.  Откройте файл решения `BudgetApp.sln` в Visual Studio.
 4.  В качестве целевого устройства выберите эмулятор Android или подключенное физическое устройство.
 5.  Нажмите `F5` для компиляции и запуска проекта.
     *Примечание: В настройках проекта (`BudgetApp.csproj`) отключена сборка для Windows, проект настроен строго под архитектуру Android (`android-arm;android-arm64`).*
 
-## 👤 Автор
-**Влад** — Разработчик приложения.
+## 👤 Автор проекта
+
+**Влад (Vladislav)** *.NET MAUI / C# Developer*
+
+📫 **Связь со мной:**
+* GitHub: [vladislavligorskij27-crypto](https://github.com/vladislavligorskij27-crypto)
+* Telegram: [@Whaat1sLove]
